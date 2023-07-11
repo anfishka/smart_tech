@@ -52,3 +52,27 @@ text-align: center;
     background: #2fbede;
 
 }
+
+@media  (max-width:400px){
+    .btn-buy{
+        position: absolute;
+        bottom: 5%;
+       }
+}
+@media  (min-width:401px) and (max-width:800px){
+    .btn-buy{
+        position: fixed;
+        bottom: 5%;
+        width: 100%;
+        border-radius: 5px 0 0 5px;
+       }
+}
+@media (min-width:801px) and (max-width:1200px){
+    
+    
+}
+@media (min-width:1201px){
+   
+ 
+
+}
