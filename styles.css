@@ -1,0 +1,54 @@
+img{
+    width: 100%;
+}
+body{
+     font-family: 'Roboto', sans-serif;
+     color: #7d7d7d;
+}
+.google-img{
+    width: 10%;
+}
+.heart-img{
+    width: 10px;
+    height: 10px;
+}
+.container{
+    margin: 0 auto;
+}
+.bold-title{
+
+}
+p{
+    padding: 6px;
+}
+.descr{
+    font-weight: bold;
+    color: rgb(55, 54, 54);
+}
+.price>span{
+    color: rgb(47, 46, 46);
+    font-size: 20px;
+    padding-right: 10px;
+}
+.s{
+text-decoration:line-through;
+    font-size: 16px;
+}
+.quantity{
+    display: block;
+  border: 1px solid grey;
+  width: 80px;
+  border-radius: 40%;
+text-align: center;
+   padding: 5px;
+}
+.btn-buy{
+    display: block;
+    width: 80px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 40%;
+    color: aliceblue;
+    background: #2fbede;
+
+}
